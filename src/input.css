@@ -21,3 +21,13 @@ html {
   translate: 5px 8px;
   transform-origin: 0% 100%;
 }
+
+/* .simplescrollup__button {
+  position: fixed;
+  bottom: 3rem;
+  right: 10rem;
+  transition: 1s all;
+  z-index: 10000;
+  color: aliceblue;
+}
+ */

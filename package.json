@@ -3,6 +3,7 @@
     "tailwindcss": "^3.3.5"
   },
   "dependencies": {
-    "@emailjs/browser": "^3.11.0"
+    "@emailjs/browser": "^3.11.0",
+    "simplescrollup": "^1.1.1"
   }
 }
