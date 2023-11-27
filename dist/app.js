@@ -82,3 +82,5 @@ jobLinks.forEach((link) => {
         firstLink.classList.remove('border-sky-500', 'bg-white', 'dark:bg-slate-700')
     })
 })
+
+
