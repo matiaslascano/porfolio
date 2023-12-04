@@ -1,23 +1,32 @@
-🚀 Portfolio de Matías Lascano
-¡Bienvenido a mi portfolio! Aquí encontrarás información sobre mí, mis proyectos y habilidades. 😊
+# 🚀 Portafolio Personal
 
-👨‍💻 Acerca de mí
-Soy un apasionado desarrollador web con experiencia en tecnologías como HTML, CSS y JavaScript. Me encanta crear sitios web hermosos y funcionales que brinden una excelente experiencia al usuario.
+¡Bienvenido a mi portafolio personal! Aquí encontrarás una recopilación de algunos de mis proyectos y trabajos.
 
-🌟 Proyectos destacados
-1. Mi sitio web personal
-Descripción: Este es mi sitio web personal donde comparto información sobre mí, mi experiencia y mis proyectos.
-Enlace: Visitar sitio web
-2. Proyecto XYZ
-Descripción: Un proyecto interesante en el que trabajé recientemente. Utilicé tecnologías como React y Node.js para construir una aplicación web de seguimiento de tareas.
-Enlace al repositorio: Proyecto XYZ
-🛠️ Tecnologías utilizadas
-Aquí están algunas de las tecnologías que he utilizado en mis proyectos:
+## 🛠 Tecnologías Utilizadas
 
-HTML5
-CSS3
-JavaScript
-React
-Node.js
-🤝 Cómo contribuir
-Si deseas contribuir a mi portfolio o tienes alguna sugerencia, ¡no dudes en abrir un issue o enviar un pull request! 🙌
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
+
+## ⚙️ Instalación
+
+1. Clona este repositorio: `git clone https://github.com/matiaslascano/porfolio`
+2. Accede al directorio del proyecto: `cd porfolio`
+3. Abre el archivo `index.html` en tu navegador.
+
+## 💻 Uso
+
+Este portafolio contiene una serie de proyectos desarrollados por mí. Explora las diferentes secciones para conocer detalles sobre cada uno de ellos.
+
+## 🤝 Contribución
+
+¡Agradezco mucho cualquier contribución a este proyecto!
+
+1. Haz un fork del repositorio (https://github.com/matiaslascano/porfolio/fork)
+2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`)
+3. Realiza cambios o mejoras y haz commit de los cambios (`git commit -am 'Agrega nueva funcionalidad'`)
+4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`)
+5. Crea un Pull Request
+
+
